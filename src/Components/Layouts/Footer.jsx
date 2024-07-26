@@ -105,7 +105,7 @@ const Footer = () => {
             alignItems: "center",
           }}
         >
-          Developed by Rahul.
+          Developed by Rahul Kumar Baitha.
         </h6>
       </div>
     </div>
